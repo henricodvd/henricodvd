@@ -21,9 +21,12 @@ My daily AI workflow uses **Codex** for orchestration and review, **DeepSeek wit
 
 ### Tools
 
-I use **Vercel** for deployments and **Cloudflare** for DNS, proxying, and security settings.
+Frequently used tools:
 
 <p align="left">
-  <img src="assets/icons/vercel.svg" alt="Vercel" height="30" />&nbsp;
+  <img src="assets/icons/orca.svg" alt="Orca ADE" height="30" />&nbsp;
+  <img src="assets/icons/github-cli.svg" alt="GitHub CLI" height="30" />&nbsp;
+  <img src="assets/icons/nodejs.svg" alt="Node.js" height="30" />&nbsp;
+  <img src="assets/icons/mongodb.svg" alt="MongoDB" height="30" />&nbsp;
   <img src="assets/icons/cloudflare.svg" alt="Cloudflare" height="30" />
 </p>
