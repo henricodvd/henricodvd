@@ -1,3 +1,5 @@
+<!-- Profile created with assistance from OpenAI Codex. -->
+
 <p align="center">
   <img src="assets/hero.svg" width="900" alt="Henrico, with a portrait of Puck made of dots" />
 </p>
